@@ -138,6 +138,7 @@ a {
 
 .just-mountain {
   position: absolute;
+}
 
 
 
@@ -150,8 +151,8 @@ a {
    background-image: -ms-linear-gradient(top, #A2DE96, #A2DE96);
    background-image: -o-linear-gradient(top, #A2DE96, #A2DE96);
    background-image: linear-gradient(to bottom, #A2DE96, #A2DE96);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
+   webkit-border-radius: 20px;
+   moz-border-radius: 20px;
    border-radius: 20px;
    height: 21px;
    line-height: 21px;
@@ -179,5 +180,4 @@ a {
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
-}
 }
