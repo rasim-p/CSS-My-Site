@@ -46,17 +46,7 @@ a {
   font-weight: normal;
 }
 
-.ap {
-  display: inline-block  ;
-  width: 70px;
-  height: 35px;
-  margin: 25;
-  padding: 0;
-  border: 0;
-  margin-right: 10px;
-  margin-left: 10px;
-  margin-bottom: 0;
-}
+
 
 .p1 {
   width: 25%;
@@ -93,6 +83,18 @@ a {
   margin-top: 0px;
   padding-top: 30px;
   padding-bottom: 20px;
+}
+
+.ap {
+  display: inline-block  ;
+  width: 70px;
+  height: 35px;
+  margin: 25;
+  padding: 0;
+  border: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 0;
 }
 
 .mid-a{
